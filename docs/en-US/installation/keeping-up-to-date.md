@@ -6,7 +6,7 @@ description: Update VVV from time to time to keep pace with new fixes and improv
 permalink: /docs/en-US/installation/keeping-up-to-date/
 ---
 
-Your VVV install will hopefully serve you many years, but in order to keep pace with new fixes and improvements, you'll need to update it from time to time.
+Your VVV install will hopefully serve you for many years, but in order to keep pace with new fixes and improvements, you'll need to update it from time to time.
 
 ## Updating VVV
 
@@ -31,4 +31,4 @@ VVV is intended as a developer environment, and you should be able to throw away
 
 For most users, halting the VM, fetching the latest version, then provisioning is perfectly safe.
 
-If for whatever reason the VVV VM is lost, VVV will attempt to restore from its own backups made, but you should not rely on this ( and you shouldn't modify these backups either else data loss can occur on provisioning ).
+If for whatever reason the VVV VM is lost, VVV will attempt to restore from its own backups made, but you should not rely on this (and you shouldn't modify these backups either else data loss can occur on provisioning).
